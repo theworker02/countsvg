@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/countsvg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Count host/svg network string helpers for config audits.",
+  "bin": {
+    "countsvg": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/countsvg.git"
+  },
+  "homepage": "https://theworker02.github.io/countsvg/",
+  "keywords": [
+    "count",
+    "svg",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
